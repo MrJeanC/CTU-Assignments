@@ -1,3 +1,6 @@
+# CovidSupportSystem.py assignment instructions link: https://drive.google.com/file/d/1oYFHhR797UyBdVdhUybya632LubRGTMN/view?usp=share_link
+# In collaboration with Cherie Smal
+
 def testargs(userInput, inputParam, errorMsg = "Invalid input. Try again"):
     """
     An error handling function that returns input if it meets the argument specifications.
